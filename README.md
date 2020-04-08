@@ -1,3 +1,2 @@
 # hello-world
-hello
-сдрасте
+#write(4)
